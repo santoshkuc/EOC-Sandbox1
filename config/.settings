@@ -1,0 +1,15 @@
+{
+    "projectName": "EOC-DeveloperSandbox",
+    "username": "prolocity@energyoutreach.org.psw",
+    "id": "09566420-4d71-11e8-a07e-8f966d1106c7",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cs52.salesforce.com",
+    "workspace": "/Users/chakrapani/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexTrigger",
+        "CustomObject"
+    ]
+}
